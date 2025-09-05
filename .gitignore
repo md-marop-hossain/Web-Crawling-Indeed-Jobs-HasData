@@ -153,13 +153,6 @@ cython_debug/
 ehthumbs.db
 Thumbs.db
 
-# Project specific
-data/
-*.json
-*.csv
-*.xlsx
-*.xls
-
 # API keys and secrets
 .env
 .env.local
